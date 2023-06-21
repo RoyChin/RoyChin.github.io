@@ -450,6 +450,4 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
 五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
-五星体育,tvbus://6CnahbzeQ6qu3S8Crv7b7dVMyDK5cHTa3RbypZe9F2hnfoWyRRGtuneYC7sY4
-五星體育,tvbus://3CHZBnTGEpZG7cg1XAB3kcxc91vXdgpgyTzWWrBv1KSwzzdR57
 五星体育720,http://www.happyspace.party:4022/udp/239.45.3.112:5140
