@@ -253,6 +253,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
 华视新闻,http://123.58.201.173:52411/test/lshotel.php?id=38
+中天新闻,https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
