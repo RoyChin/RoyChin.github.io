@@ -405,6 +405,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+五星体育,https://ca88.cf/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://lu1.cc/itv/php/best.php?id=wxty
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
 五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
