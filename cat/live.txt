@@ -101,6 +101,7 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 
 卫视频道,#genre#
 上视新闻,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=xwzhhd8m/8000000
+上视新闻,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 湖南卫视,https://cntv.sbs/live?auth=230612&id=hunws
 江苏卫视,https://cntv.sbs/live?auth=230612&id=jsws
 浙江卫视,https://cntv.sbs/live?auth=230612&id=zjws
