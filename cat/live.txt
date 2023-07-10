@@ -469,6 +469,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,http://lu1.cc/itv/php/bestv.php?id=wxty
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星体育,http://114.95.242.168:8888/udp/239.45.3.210:5140
 五星体育,http://101.83.37.206:10000/udp/239.45.3.210:5140
 五星体育720,http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
