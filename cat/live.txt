@@ -1,5 +1,4 @@
 央视频道,#genre#
-CCTV14K,https://cntv.sbs/live?auth=2307100804&id=cctv14k
 CCTV1,https://cntv.sbs/live?auth=2307100804&id=cctv1
 CCTV2,https://cntv.sbs/live?auth=2307100804&id=cctv2
 CCTV3,https://cntv.sbs/live?auth=2307100804&id=cctv3
@@ -16,7 +15,6 @@ CCTV12,https://cntv.sbs/live?auth=2307100804&id=cctv12
 CCTV13,https://cntv.sbs/live?auth=2307100804&id=cctv13
 CCTV14,https://cntv.sbs/live?auth=2307100804&id=cctv14
 CCTV15,https://cntv.sbs/live?auth=2307100804&id=cctv15
-CCTV16,https://cntv.sbs/live?auth=2307100804&id=cctv164k
 CCTV16,https://cntv.sbs/live?auth=2307100804&id=cctv16
 CCTV17,https://cntv.sbs/live?auth=2307100804&id=cctv17
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
