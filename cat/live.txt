@@ -89,6 +89,22 @@ CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+CCTV1,rtmp://202.204.52.116:1935/livetv/cctv1hd
+CCTV2,rtmp://202.204.52.116:1935/livetv/cctv2hd
+CCTV3,rtmp://202.204.52.116:1935/livetv/cctv3hd
+CCTV4,rtmp://202.204.52.116:1935/livetv/cctv4hd
+CCTV5,rtmp://202.204.52.116:1935/livetv/cctv5hd
+CCTV5+,rtmp://202.204.52.116:1935/livetv/cctv5phd
+CCTV6,rtmp://202.204.52.116:1935/livetv/cctv6hd
+CCTV7,rtmp://202.204.52.116:1935/livetv/cctv7hd
+CCTV8,rtmp://202.204.52.116:1935/livetv/cctv8hd
+CCTV9,rtmp://202.204.52.116:1935/livetv/cctv9hd
+CCTV10,rtmp://202.204.52.116:1935/livetv/cctv10hd
+CCTV12,rtmp://202.204.52.116:1935/livetv/cctv12hd
+CCTV13,rtmp://202.204.52.116:1935/livetv/cctv13hd
+CCTV14,rtmp://202.204.52.116:1935/livetv/cctv14hd
+CCTV15,rtmp://202.204.52.116:1935/livetv/cctv15hd
+CCTV17,rtmp://202.204.52.116:1935/livetv/cctv17hd
 
 卫视频道,#genre#
 湖南卫视,https://cntv.sbs/live?auth=2307100804&id=hunws
