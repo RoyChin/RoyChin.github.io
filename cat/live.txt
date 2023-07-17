@@ -469,7 +469,6 @@ ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,https://epg.pw/stream/9fcb9f33c2c7ec8c37d4315449590fdddb354cee2a09ed56037cbdc52815aa1b.ctv
 五星体育,http://lzoq.hk3c.ml/daili/?id=wxtyhd8m/8000000
-五星体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://ca88.cf/api/bestv.php?id=wxtyhd8m/8000000
