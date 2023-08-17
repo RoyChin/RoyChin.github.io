@@ -725,6 +725,8 @@ VIU6,http://c-leung.homeip.net:8011/bysid/96
 全佳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=xEP94V2R5Q
 小太阳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571230&extension=ts&play_token=D3QyPDZb9O
 欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
+TVBS新闻台,https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
+TVBS新闻台,https://epg.pw/stream/3a8d129a03f92db91cefa8f474b876f921d9b1b8346b42b1be50e7bcc7287940.m3u8
 TVBS新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 TVBS新闻台,http://tv.beimua.com/tvs.php?id=3
 TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
