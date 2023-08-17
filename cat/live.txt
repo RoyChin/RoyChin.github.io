@@ -511,7 +511,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,http://lzoq.hk3c.ml/daili/?id=wxtyhd8m/8000000
 五星体育,http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-五星体育,https://cntv.sbs/live?auth=2307100804&id=wxty
+五星体育,https://cntv.sbs/tv?auth=230813&id=wxty
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星体育,http://222.71.150.174:9901/tsfile/live/0127_1.m3u8?key=txiptv
 五星体育,http://58.32.40.25:8000/udp/239.45.3.210:5140
