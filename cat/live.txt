@@ -517,9 +517,6 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星体育,http://222.71.150.174:9901/tsfile/live/0127_1.m3u8?key=txiptv
 五星体育,http://58.32.40.25:8000/udp/239.45.3.210:5140
-五星体育720,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
-五星体育720,https://epg.pw/stream/31292a1c6f19c1c5155c510a53eef164e232305589b73476cbb97b5005f49837.m3u8
-五星体育720,https://epg.pw/stream/067873796b88fae88903d932b7fb085c0aecc88370cafbe75e1b3cf0c77bc11b.m3u8
 五星体育720,http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
 五星体育720,http://111.40.196.28:443/PLTV/88888888/224/3221225503/1.m3u8
 五星体育720,http://111.40.196.30:443/PLTV/88888888/224/3221225503/1.m3u8
