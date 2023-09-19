@@ -510,7 +510,7 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.ctv
-五星体育,http://lzoq.hk3c.ml/daili/?id=wxtyhd8m/8000000
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://cntv.sbs/tv?auth=230918&id=wxty
