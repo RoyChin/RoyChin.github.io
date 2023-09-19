@@ -330,7 +330,13 @@ VIU6,http://c-leung.homeip.net:8011/bysid/96
 全佳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=xEP94V2R5Q
 小太阳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571230&extension=ts&play_token=D3QyPDZb9O
 欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
+TVBS新闻台,https://epg.pw/stream/e5ea85f8c05b463598deb2bd3490272191a18b6235807e15ce8876809c014396.m3u8
 TVBS新闻台,https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
+TVBS新闻台,https://epg.pw/stream/fe7380d039c7d3ba043e249c04e4af2dc630747fff1ff74c75d998806bf1b749.m3u8
+TVBS新闻台,https://epg.pw/stream/e42d43f285697c54fa100b46d6d52457f908037ab23032ca681bd7ff026c7b97.m3u8
+TVBS新闻台,https://epg.pw/stream/12a215629774049468d1cbe7e6e4d668b32960b72fcfa034ac8269f1300c1270.m3u8
+TVBS新闻台,https://epg.pw/stream/0f40c5b9e7af9348e5d9afb6b9c63c903e1053bf584d9430b2785c746bc3ec2d.m3u8
+TVBS新闻台,https://epg.pw/stream/dc88e4bb8165db1af83d0c571b8260a21c248841a2f1c8c44a2bbf840ea50eea.m3u8
 TVBS新闻台,https://epg.pw/stream/3a8d129a03f92db91cefa8f474b876f921d9b1b8346b42b1be50e7bcc7287940.m3u8
 TVBS新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 TVBS新闻台,http://tv.beimua.com/tvs.php?id=3
@@ -510,6 +516,10 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.ctv
+五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+五星体育,https://epg.pw/stream/9fcb9f33c2c7ec8c37d4315449590fdddb354cee2a09ed56037cbdc52815aa1b.ctv
+五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
+五星体育,https://epg.pw/stream/31292a1c6f19c1c5155c510a53eef164e232305589b73476cbb97b5005f49837.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
