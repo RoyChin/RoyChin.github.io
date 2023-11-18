@@ -516,7 +516,7 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 博斯网球,rtmp://9sv2.mine.nu/sat/md031
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
-五星體育,https://epg.pw/stream/22e290cf9ab96f17cfc2fa1c7042b6a25200ad94f4b185bc0a28deecf760ea4f.ctv
+五星体育,https://epg.pw/stream/22e290cf9ab96f17cfc2fa1c7042b6a25200ad94f4b185bc0a28deecf760ea4f.ctv
 五星体育,https://epg.pw/stream/6235b7fb6c91aace070a065224cf36078bd0a827acbc8ff8231a18ace756d505.ctv
 五星体育,https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.ctv
 五星体育,https://epg.pw/stream/31292a1c6f19c1c5155c510a53eef164e232305589b73476cbb97b5005f49837.m3u8
