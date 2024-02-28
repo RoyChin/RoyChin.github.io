@@ -576,7 +576,7 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 博斯网球,rtmp://9sv2.mine.nu/sat/md031
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://nas.jdshipin.com:8801/bst.php?id=wxty
 五星体育,https://epg.pw/stream/22e290cf9ab96f17cfc2fa1c7042b6a25200ad94f4b185bc0a28deecf760ea4f.ctv
 五星体育,https://cloud.yumixiu768.com/tmp/123.m3u8
