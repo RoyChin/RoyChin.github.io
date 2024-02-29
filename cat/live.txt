@@ -574,6 +574,7 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
+五星体育,http://222.65.21.143:4022/udp/239.45.3.210:5140
 五星体育,http://61.172.8.166:10001/udp/239.45.3.210:5140
 五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -590,6 +591,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
 五星体育,https://iptv.sy123.love:666/udp/239.45.3.210:5140
 五星体育,http://58.32.40.25:8000/udp/239.45.3.210:5140
 五星体育720,http://www.baopiqi.top:4022/udp/239.45.3.112:5140
+五星体育720,http://222.65.21.143:4022/udp/239.45.3.112:5140
 五星体育720,http://61.172.8.166:10001/udp/239.45.3.112:5140
 五星体育720,http://180.167.104.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育720,http://111.40.196.28:443/PLTV/88888888/224/3221225503/1.m3u8
