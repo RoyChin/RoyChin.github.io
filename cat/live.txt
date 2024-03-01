@@ -579,6 +579,7 @@ TVBS欢乐,rtmp://twcdn.top:1935/sat/tv421
 纬来体育,rtmp://twcdn.top:1935/sat/tv721
 纬来体育,rtmp://9svd5.mine.nu:1935/sat/tv721
 纬来体育,http://211.23.114.106:8505/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+纬来体育,p2p://211.75.214.186:9906/57a7298a0003791e3d7a21da9c8efafe.ts
 ELEVEN体育1台,rtmp://9svd5.mine.nu:1935/sat/tv731
 ELEVEN体育1台,rtmp://twcdn.top:1935/sat/tv731
 ELEVEN体育2台,rtmp://9svd5.mine.nu:1935/sat/tv741
@@ -591,6 +592,7 @@ MoMo综合,rtmp://9svd5.mine.nu:1935/sat/tv761
 MoMo综合,rtmp://twcdn.top:1935/sat/tv761
 ELTA1,rtmp://9svd5.mine.nu:1935/sat/md011
 ELTA1,rtmp://twcdn.top:1935/sat/md011
+ELTA1,p2p://211.75.214.186:9906/57a730be000925823d96466e1eb96573.ts
 ELTA2,rtmp://9svd5.mine.nu:1935/sat/md021
 ELTA2,rtmp://twcdn.top:1935/sat/md021
 博斯网球,rtmp://9svd5.mine.nu:1935/sat/md031
