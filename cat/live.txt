@@ -566,6 +566,7 @@ TVBS欢乐,rtmp://twcdn.top:1935/sat/tv421
 測試720,http://58.32.42.174:4022/rtp/239.45.3.112:5140
 
 体育频道,#genre#
+纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
@@ -596,6 +597,10 @@ ELTA3,rtmp://9svd5.mine.nu:1935sat/md041
 ELTA3,rtmp://twcdn.top:1935sat/md041
 ELEVEN2,rtmp://9svd5.mine.nu:1935/sat/md051
 ELEVEN2,rtmp://twcdn.top:1935/sat/md051
+五星体育,http://58.37.189.39:8088/udp/239.45.3.210:5140
+五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.ctv
+五星体育,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxty
 五星体育,http://116.234.45.156:1024/udp/239.45.3.210:5140
 五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -632,3 +637,6 @@ ELEVEN2,rtmp://twcdn.top:1935/sat/md051
 五星体育720,http://111.40.196.38:443/PLTV/88888888/224/3221225503/1.m3u8
 五星体育720,https://iptv.sy123.love:666/udp/239.45.3.112:5140
 五星体育720,http://58.32.40.25:8000/udp/239.45.3.112:5140
+广东体育,http://113.118.13.196:808/hls/2/index.m3u8
+广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
