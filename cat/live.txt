@@ -575,7 +575,6 @@ TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 
 体育频道,#genre#
 纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
-
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
