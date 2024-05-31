@@ -607,6 +607,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/md051
 五星体育,http://116.237.248.80:9901/tsfile/live/1010_1.m3u8
 五星体育,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
+五星体育,http://home.qingyuga.me:8888/rtp/239.45.3.210:5140
 五星体育,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
 五星体育,http://222.64.208.19:8899/udp/239.45.3.210:5140
 五星体育,http://58.37.82.140:56789/udp/239.45.3.210:5140
@@ -614,6 +615,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/md051
 五星体育,http://101.85.133.44:4000/udp/239.45.3.210:5140
 五星体育,http://116.233.138.194:4022/udp/239.45.3.210:5140
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.ctv
+五星体育720,http://home.qingyuga.me:8888/rtp/239.45.3.112:5140
 五星体育720,http://www.baopiqi.top:4022/udp/239.45.3.112:5140
 五星体育720,http://222.64.208.19:8899/udp/239.45.3.112:5140
 五星体育720,http://58.37.82.140:56789/udp/239.45.3.112:5140
