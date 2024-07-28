@@ -649,8 +649,3 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/md051
 广东体育,http://113.118.13.196:808/hls/2/index.m3u8
 广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-纬来体育,rtmp://9svd3.mine.nu/sat/tv721#rtmp://9svd4.mine.nu/sat/tv721#rtmp://9svd5.mine.nu/sat/tv721
-Sport 1,rtmp://9svd3.mine.nu/sat/tv731#rtmp://9svd4.mine.nu/sat/tv731#rtmp://9svd5.mine.nu/sat/tv731
-Sport 2,rtmp://9svd3.mine.nu/sat/tv741#rtmp://9svd4.mine.nu/sat/tv741#rtmp://9svd5.mine.nu/sat/tv741
-Sport 3,rtmp://9svd3.mine.nu/sat/md011#rtmp://9svd4.mine.nu/sat/md011#rtmp://9svd5.mine.nu/sat/md011
-Sport 4,rtmp://9svd3.mine.nu/sat/md021#rtmp://9svd4.mine.nu/sat/md021#rtmp://9svd5.mine.nu/sat/md021
