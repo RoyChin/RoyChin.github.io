@@ -576,28 +576,50 @@ TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,rtmp://9svd3.mine.nu/sat/tv721
+纬来体育,rtmp://9svd4.mine.nu/sat/tv721
 纬来体育,rtmp://9svd5.mine.nu/sat/tv721
 纬来体育,http://211.23.114.106:8505/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 纬来体育,p2p://211.75.214.186:9906/57a7298a0003791e3d7a21da9c8efafe.ts
+ELEVEN体育1台,rtmp://9svd3.mine.nu/sat/tv731
+ELEVEN体育1台,rtmp://9svd4.mine.nu/sat/tv731
 ELEVEN体育1台,rtmp://9svd5.mine.nu/sat/tv731
 ELEVEN体育1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2台,rtmp://9svd3.mine.nu/sat/tv741
+ELEVEN体育2台,rtmp://9svd4.mine.nu/sat/tv741
 ELEVEN体育2台,rtmp://9svd5.mine.nu/sat/tv741
 ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
+纬来日本,rtmp://9svd3.mine.nu/sat/tv771
+纬来日本,rtmp://9svd4.mine.nu/sat/tv771
 纬来日本,rtmp://9svd5.mine.nu/sat/tv771
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://9svd3.mine.nu/sat/tv331
+东森超视,rtmp://9svd4.mine.nu/sat/tv331
 东森超视,rtmp://9svd5.mine.nu/sat/tv331
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://9svd3.mine.nu/sat/tv761
+MoMo综合,rtmp://9svd4.mine.nu/sat/tv761
 MoMo综合,rtmp://9svd5.mine.nu/sat/tv761
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELTA1,rtmp://9svd3.mine.nu/sat/md011
+ELTA1,rtmp://9svd4.mine.nu/sat/md011
 ELTA1,rtmp://9svd5.mine.nu/sat/md011
 ELTA1,rtmp://f13h.mine.nu/sat/md011
 ELTA1,p2p://211.75.214.186:9906/57a730be000925823d96466e1eb96573.ts
+ELTA2,rtmp://9svd3.mine.nu/sat/md021
+ELTA2,rtmp://9svd4.mine.nu/sat/md021
 ELTA2,rtmp://9svd5.mine.nu/sat/md021
 ELTA2,rtmp://f13h.mine.nu/sat/md021
+博斯网球,rtmp://9svd3.mine.nu/sat/md031
+博斯网球,rtmp://9svd4.mine.nu/sat/md031
 博斯网球,rtmp://9svd5.mine.nu/sat/md031
 博斯网球,rtmp://f13h.mine.nu/sat/md031
+ELTA3,rtmp://9svd3.mine.nusat/md041
+ELTA3,rtmp://9svd4.mine.nusat/md041
 ELTA3,rtmp://9svd5.mine.nusat/md041
 ELTA3,rtmp://f13h.mine.nusat/md041
+ELEVEN2,rtmp://9svd3.mine.nu/sat/md051
+ELEVEN2,rtmp://9svd4.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd5.mine.nu/sat/md051
 ELEVEN2,rtmp://f13h.mine.nu/sat/md051
 五星体育,http://116.237.248.80:9901/tsfile/live/1010_1.m3u8
@@ -627,7 +649,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/md051
 广东体育,http://113.118.13.196:808/hls/2/index.m3u8
 广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-爱尔达体育1,p3p://108.181.20.159:41687/623a8d50000c965397b2d5b26c7b25bd
-爱尔达体育2,p3p://108.181.20.159:41687/623a8d8d0001570d97b3c11a65640b68
-爱尔达体育3,p3p://108.181.20.159:41687/622e99e60004026169046fd918be6ed7
-爱尔达体育4,p3p://108.181.20.159:41687/6561b7fc0008015996e9acc674481614
+纬来体育,rtmp://9svd3.mine.nu/sat/tv721#rtmp://9svd4.mine.nu/sat/tv721#rtmp://9svd5.mine.nu/sat/tv721
+Sport 1,rtmp://9svd3.mine.nu/sat/tv731#rtmp://9svd4.mine.nu/sat/tv731#rtmp://9svd5.mine.nu/sat/tv731
+Sport 2,rtmp://9svd3.mine.nu/sat/tv741#rtmp://9svd4.mine.nu/sat/tv741#rtmp://9svd5.mine.nu/sat/tv741
+Sport 3,rtmp://9svd3.mine.nu/sat/md011#rtmp://9svd4.mine.nu/sat/md011#rtmp://9svd5.mine.nu/sat/md011
+Sport 4,rtmp://9svd3.mine.nu/sat/md021#rtmp://9svd4.mine.nu/sat/md021#rtmp://9svd5.mine.nu/sat/md021
