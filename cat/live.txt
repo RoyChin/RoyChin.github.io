@@ -609,6 +609,8 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
+华视,,rtmp://9svd3.mine.nu/sat/tv111
+华视,,rtmp://9svd4.mine.nu/sat/tv111
 华视,rtmp://9svd5.mine.nu/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://9svd5.mine.nu/sat/tv051
