@@ -490,8 +490,8 @@ ELEVEN2,rtmp://9svd3.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd4.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd5.mine.nu/sat/md051
 ELEVEN2,rtmp://f13h.mine.nu/sat/md051
-五星体育,http://146.235.222.181:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
-五星体育,http://146.235.222.181:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+五星体育,https://arm.130707.xyz/TVOD/5000000010000017540/bestzb/index.m3u8
+五星体育,https://arm.130707.xyz/TVOD/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://144.24.70.20:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://144.24.70.20:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 五星体育,http://147.192.118.221:8833/TVOD/2000000002000000007/hnbblive/index.m3u8
