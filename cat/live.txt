@@ -480,7 +480,7 @@ ELEVEN2,rtmp://9svd3.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd4.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd5.mine.nu/sat/md051
 ELEVEN2,rtmp://f13h.mine.nu/sat/md051
-五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
+五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 五星体育,http://218.78.182.69:9901/tsfile/live/1010_1.m3u8
 五星体育,https://arm.130707.xyz/TVOD/2000000002000000007/hnbblive/index.m3u8
 五星体育,https://arm.130707.xyz/TVOD/5000000010000017540/bestzb/index.m3u8
