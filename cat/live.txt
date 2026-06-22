@@ -509,6 +509,9 @@ ELEVEN2,rtmp://9svd3.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd4.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd5.mine.nu/sat/md051
 ELEVEN2,rtmp://f13h.mine.nu/sat/md051
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
 五星体育,http://116.232.150.101:6000/tsfile/live/0001_47.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
 五星体育,http://rongrong.synology.me:14022/rtp/233.18.204.58:5140
