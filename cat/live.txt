@@ -50,17 +50,11 @@ CCTV12,http://116.52.173.25:1234/673168185
 CCTV13,http://116.52.173.25:1234/608807423
 CCTV14,http://116.52.173.25:1234/624878440
 CCTV15,http://116.52.173.25:1234/673168223
-
 CCTV17,http://116.52.173.25:1234/673168256
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-//CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5,http://173.208.212.130:8181/1080p/cctv5.m3u8
-//CCTV5+,http://74.91.26.218:82/live/cctv5phd.m3u8
-CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
-CCTV5+,http://116.52.173.25:1234/641886773
 CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
