@@ -8,6 +8,7 @@ CCTV5+,http://198.204.228.26/live/cctv5p.m3u8
 CCTV6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV7,http://198.204.228.26/live/cctv7hd.m3u8
 CCTV8,http://198.204.228.26/live/cctv8hd.m3u8
+CCTV9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV13,http://198.204.228.26/live/cctv13hd.m3u8
