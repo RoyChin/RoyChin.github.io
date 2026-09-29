@@ -548,6 +548,7 @@ ELEVEN2,rtmp://9svd3.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd4.mine.nu/sat/md051
 ELEVEN2,rtmp://9svd5.mine.nu/sat/md051
 ELEVEN2,rtmp://f13h.mine.nu/sat/md051
+五星体育,http://58.37.200.11:5140/上海文广/五星体育?cors
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WdbvDrkvXW3CoNzypyeR78hJA9XT0Vd1oCA
 五星体育,https://cdn.qd.je/163189.php?id=wxty
